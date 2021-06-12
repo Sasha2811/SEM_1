@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Учёба\C#\LAB_10\LAB_10\LAB_10\bin\Debug\netcoreapp3.1\LAB_10.exe
+C:\Users\User\Desktop\Учёба\C#\LAB_10\LAB_10\LAB_10\bin\Debug\netcoreapp3.1\LAB_10.deps.json
+C:\Users\User\Desktop\Учёба\C#\LAB_10\LAB_10\LAB_10\bin\Debug\netcoreapp3.1\LAB_10.runtimeconfig.json
+C:\Users\User\Desktop\Учёба\C#\LAB_10\LAB_10\LAB_10\bin\Debug\netcoreapp3.1\LAB_10.runtimeconfig.dev.json
+C:\Users\User\Desktop\Учёба\C#\LAB_10\LAB_10\LAB_10\bin\Debug\netcoreapp3.1\LAB_10.dll
+C:\Users\User\Desktop\Учёба\C#\LAB_10\LAB_10\LAB_10\bin\Debug\netcoreapp3.1\LAB_10.pdb
+C:\Users\User\Desktop\Учёба\C#\LAB_10\LAB_10\LAB_10\obj\Debug\netcoreapp3.1\LAB_10.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Учёба\C#\LAB_10\LAB_10\LAB_10\obj\Debug\netcoreapp3.1\LAB_10.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учёба\C#\LAB_10\LAB_10\LAB_10\obj\Debug\netcoreapp3.1\LAB_10.AssemblyInfo.cs
+C:\Users\User\Desktop\Учёба\C#\LAB_10\LAB_10\LAB_10\obj\Debug\netcoreapp3.1\LAB_10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\C#\LAB_10\LAB_10\LAB_10\obj\Debug\netcoreapp3.1\LAB_10.dll
+C:\Users\User\Desktop\Учёба\C#\LAB_10\LAB_10\LAB_10\obj\Debug\netcoreapp3.1\LAB_10.pdb
+C:\Users\User\Desktop\Учёба\C#\LAB_10\LAB_10\LAB_10\obj\Debug\netcoreapp3.1\LAB_10.genruntimeconfig.cache
