@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Учёба\C#\LAB_9\LAB_9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.exe
+C:\Users\User\Desktop\Учёба\C#\LAB_9\LAB_9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.deps.json
+C:\Users\User\Desktop\Учёба\C#\LAB_9\LAB_9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.runtimeconfig.json
+C:\Users\User\Desktop\Учёба\C#\LAB_9\LAB_9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.runtimeconfig.dev.json
+C:\Users\User\Desktop\Учёба\C#\LAB_9\LAB_9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.dll
+C:\Users\User\Desktop\Учёба\C#\LAB_9\LAB_9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.pdb
+C:\Users\User\Desktop\Учёба\C#\LAB_9\LAB_9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Учёба\C#\LAB_9\LAB_9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учёба\C#\LAB_9\LAB_9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.AssemblyInfo.cs
+C:\Users\User\Desktop\Учёба\C#\LAB_9\LAB_9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\C#\LAB_9\LAB_9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.dll
+C:\Users\User\Desktop\Учёба\C#\LAB_9\LAB_9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.pdb
+C:\Users\User\Desktop\Учёба\C#\LAB_9\LAB_9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.genruntimeconfig.cache
