@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Учёба\C#\LAB_6\LAB_6\LAB_6\obj\Debug\netcoreapp3.1\LAB_6.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Учёба\C#\LAB_6\LAB_6\LAB_6\obj\Debug\netcoreapp3.1\LAB_6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учёба\C#\LAB_6\LAB_6\LAB_6\obj\Debug\netcoreapp3.1\LAB_6.AssemblyInfo.cs
+C:\Users\User\Desktop\Учёба\C#\LAB_6\LAB_6\LAB_6\obj\Debug\netcoreapp3.1\LAB_6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\C#\LAB_6\LAB_6\LAB_6\bin\Debug\netcoreapp3.1\LAB_6.exe
+C:\Users\User\Desktop\Учёба\C#\LAB_6\LAB_6\LAB_6\bin\Debug\netcoreapp3.1\LAB_6.deps.json
+C:\Users\User\Desktop\Учёба\C#\LAB_6\LAB_6\LAB_6\bin\Debug\netcoreapp3.1\LAB_6.runtimeconfig.json
+C:\Users\User\Desktop\Учёба\C#\LAB_6\LAB_6\LAB_6\bin\Debug\netcoreapp3.1\LAB_6.runtimeconfig.dev.json
+C:\Users\User\Desktop\Учёба\C#\LAB_6\LAB_6\LAB_6\bin\Debug\netcoreapp3.1\LAB_6.dll
+C:\Users\User\Desktop\Учёба\C#\LAB_6\LAB_6\LAB_6\bin\Debug\netcoreapp3.1\LAB_6.pdb
+C:\Users\User\Desktop\Учёба\C#\LAB_6\LAB_6\LAB_6\obj\Debug\netcoreapp3.1\LAB_6.dll
+C:\Users\User\Desktop\Учёба\C#\LAB_6\LAB_6\LAB_6\obj\Debug\netcoreapp3.1\LAB_6.pdb
+C:\Users\User\Desktop\Учёба\C#\LAB_6\LAB_6\LAB_6\obj\Debug\netcoreapp3.1\LAB_6.genruntimeconfig.cache
